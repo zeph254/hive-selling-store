@@ -1,6 +1,6 @@
-from fastapi import FastApi
+from fastapi import FastAPI
 
-app = FastApi()
+app = FastAPI()
 
 @app.get("/")
 def index():
@@ -17,7 +17,7 @@ def add_product():
 @app.get("/products/{product_id}")
 def get_products(product_id: int):
     print(product_id)
-    return{"message":"product retrived successfully"}
+    return{"message":f"product {product_id} retrived successfully"}
 
    
 
