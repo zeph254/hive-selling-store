@@ -53,3 +53,7 @@ The content of this site is licensed under the MIT license Copyright (c) 2024.
 # SLIDES
 
 https://docs.google.com/presentation/d/1xUWp2t7yBeKwcXGZ0Nm5eQutlmupIDiJ7djoo9rIM5o/edit#slide=id.g3215f8eb50f_0_5
+
+# video presentation
+
+https://www.veed.io/view/96125009-52f8-41d3-82d0-4bfc7ac1316d?panel=share
